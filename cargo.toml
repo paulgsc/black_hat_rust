@@ -1,7 +1,7 @@
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 [workspace]
-members = [ "examples/ch_01/sha1_cracker","examples/ch_01/snippets/enums"]
+members = [ "examples/ch_01/sha1_cracker", "examples/ch_01/smart_pointers","examples/ch_01/snippets/enums"]
 
 exclude = []
 
